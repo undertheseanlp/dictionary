@@ -16,3 +16,7 @@ Các nguồn từ điển được tổng hợp trong dự án
 
 * Từ điển Hồ Ngọc Đức
 * Từ điển tudientv
+
+## Bản quyền
+
+Mã nguồn của dự án được phân phối theo giấy phép [GPL-3.0](LICENSE.txt).
