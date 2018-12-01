@@ -1,2 +1,3 @@
-# Dự án từ điển mở tiếng Việt
+# Từ điển Hồ Ngọc Đức
 
+30.000 từ
