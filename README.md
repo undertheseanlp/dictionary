@@ -1,2 +1,4 @@
-# Dự án từ điển mở tiếng Việt
+# Lấy dữ liệu từ tudientv
+
+
 
