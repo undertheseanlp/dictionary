@@ -1,3 +1,4 @@
+import json
 import os
 from os.path import join, exists
 
@@ -20,4 +21,6 @@ class Dictionary:
             os.remove(file)
         f = open(file, "a")
         for word in self.words:
-            f.write(word.text + "\n")
+            content = {"text": word.text, "source": word.source}
+            content = json.dumps(content, ensure_ascii=False)
+            f.write(content + "\n")
