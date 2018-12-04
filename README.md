@@ -17,6 +17,18 @@ Các nguồn từ điển được tổng hợp trong dự án
 * Từ điển Hồ Ngọc Đức
 * Từ điển tudientv
 
+Thống kê
+
+```
+count        48679
+unique           3
+
+tudientv              18984
+hongocduc tudientv    17549
+hongocduc             12146 
+```
+
+
 ## Bản quyền
 
 Mã nguồn của dự án được phân phối theo giấy phép [GPL-3.0](LICENSE.txt).
