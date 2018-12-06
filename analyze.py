@@ -6,6 +6,8 @@ dictionary.load("dictionary")
 
 sources = []
 dict_stats = {}
+print("Tổng số từ:", len(dictionary.words), "\n")
+
 for word in dictionary.words:
     sources.append(" ".join(word.source))
     for source in word.source:
@@ -15,8 +17,10 @@ for word in dictionary.words:
             dict_stats[source] += 1
 
 s = pd.Series(sources)
-print(s.describe())
-print(s.value_counts())
+print(s.value_counts(), "\n")
+
 
 for dict, count in dict_stats.items():
     print(f"{dict}: {count}")
+
+print("\n", s.describe(), "\n")

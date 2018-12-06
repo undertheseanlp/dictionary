@@ -17,20 +17,21 @@ Các nguồn từ điển được tổng hợp trong dự án
 * Từ điển Hồ Ngọc Đức
 * Từ điển tudientv
 
-Tổng số lượng từ: 48679
-
-```     
-tudientv              38829
-hongocduc tudientv    34343
-hongocduc             2190 
-
-```
+Tổng số lượng từ: 75362
 
 Số lượng từ ở mỗi từ điển
 
 ```
 hongocduc   73172
 tudientv    36533 
+```
+
+Số lượng từ duy nhất ở mỗi từ điển 
+
+```     
+tudientv              38829
+hongocduc tudientv    34343
+hongocduc             2190 
 ```
 
 ## Bản quyền
