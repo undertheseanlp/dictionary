@@ -5,7 +5,7 @@ from os.path import exists
 import requests
 from bs4 import BeautifulSoup
 
-output_filepath = "words.txt"
+output_filepath = "data/words.txt"
 if exists(output_filepath):
     os.remove(output_filepath)
 output_file = open(output_filepath, "a")
