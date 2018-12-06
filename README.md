@@ -14,8 +14,8 @@ Dự án tổng hợp các *từ điển tiếng Việt*, được phát triển
 
 Các nguồn từ điển được tổng hợp trong dự án 
 
-* [Từ điển Hồ Ngọc Đức]()
-* Từ điển tudientv
+* [Từ điển Hồ Ngọc Đức](https://github.com/undertheseanlp/dictionary/tree/hongocduc)
+* [Từ điển tudientv](https://github.com/undertheseanlp/dictionary/tree/tudientv)
 
 Tổng số lượng từ: 75362
 
