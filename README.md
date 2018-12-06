@@ -10,11 +10,11 @@ Dự án tổng hợp các *từ điển tiếng Việt*, được phát triển
 
 * Vũ Anh ([anhv.ict91@gmail.com](anhv.ict91@gmail.com))
 
-## Các nguồn dữ liệu 
+## Thống kê 
 
 Các nguồn từ điển được tổng hợp trong dự án 
 
-* Từ điển Hồ Ngọc Đức
+* [Từ điển Hồ Ngọc Đức]()
 * Từ điển tudientv
 
 Tổng số lượng từ: 75362
