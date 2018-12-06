@@ -20,17 +20,17 @@ Các nguồn từ điển được tổng hợp trong dự án
 Tổng số lượng từ: 48679
 
 ```     
-tudientv              18984
-hongocduc tudientv    17549
-hongocduc             12146 
+tudientv              38829
+hongocduc tudientv    34343
+hongocduc             2190 
 
 ```
 
 Số lượng từ ở mỗi từ điển
 
 ```
-hongocduc: 29695
-tudientv: 36533 
+hongocduc   73172
+tudientv    36533 
 ```
 
 ## Bản quyền
