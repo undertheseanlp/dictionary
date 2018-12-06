@@ -16,7 +16,7 @@ class Dictionary:
         self.words = words
 
     def save(self, dictionary_path):
-        file = join(dictionary_path, "A.txt")
+        file = join(dictionary_path, "words.txt")
         if exists(file):
             os.remove(file)
         f = open(file, "a")
@@ -27,7 +27,7 @@ class Dictionary:
 
     def load(self, dictionary_path):
         self.words = []
-        for line in open(join(dictionary_path, "A.txt")):
+        for line in open(join(dictionary_path, "words.txt")):
             content = line.strip()
             item = json.loads(content)
             word = Word(item["text"])
