@@ -8,6 +8,7 @@ DICTIONARIES_FOLDER = "dictionaries"
 dirs = [d for d in listdir(DICTIONARIES_FOLDER) if os.path.isdir(join(DICTIONARIES_FOLDER, d))]
 dictionaries = []
 for dir in dirs:
+    print(f"Merge {dir} ...")
     path = join("dictionaries", dir)
     dictionary = Dictionary()
     dictionary.load(path)
@@ -15,3 +16,4 @@ for dir in dirs:
 
 dictionary = DictionaryUtil.merge(dictionaries)
 dictionary.save("dictionary")
+print("Finish")

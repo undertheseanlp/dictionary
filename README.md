@@ -16,22 +16,28 @@ Các nguồn từ điển được tổng hợp trong dự án
 
 * [Từ điển Hồ Ngọc Đức](https://github.com/undertheseanlp/dictionary/tree/hongocduc)
 * [Từ điển tudientv](https://github.com/undertheseanlp/dictionary/tree/tudientv)
+* [Từ điển wiktionary](https://github.com/undertheseanlp/dictionary/tree/wiktionary)
 
 Tổng số lượng từ: 75362
 
 Số lượng từ ở mỗi từ điển
 
 ```
-hongocduc   73172
-tudientv    36533 
+hongocduc   : 73172
+tudientv    : 36533
+wiktionary  : 32484
 ```
 
-Số lượng từ duy nhất ở mỗi từ điển 
+Số lượng từ giao thoa giữa các từ điển 
 
 ```     
-tudientv              38829
-hongocduc tudientv    34343
-hongocduc             2190 
+hongocduc                        29140
+hongocduc tudientv wiktionary    18833
+hongocduc tudientv               15510
+hongocduc wiktionary              9689
+wiktionary                        3864
+tudientv                          2092
+tudientv wiktionary                 98
 ```
 
 ## Bản quyền

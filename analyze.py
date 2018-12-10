@@ -19,8 +19,8 @@ for word in dictionary.words:
 s = pd.Series(sources)
 print(s.value_counts(), "\n")
 
-
+WIDTH = 12
 for dict, count in dict_stats.items():
-    print(f"{dict}: {count}")
+    print(f"{dict:{WIDTH}}: {count}")
 
 print("\n", s.describe(), "\n")
