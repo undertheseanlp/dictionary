@@ -18,7 +18,7 @@ Các nguồn từ điển được tổng hợp trong dự án
 * [Từ điển tudientv](https://github.com/undertheseanlp/dictionary/tree/tudientv)
 * [Từ điển wiktionary](https://github.com/undertheseanlp/dictionary/tree/wiktionary)
 
-Tổng số lượng từ: 75362
+Tổng số lượng từ: 79226
 
 Số lượng từ ở mỗi từ điển
 
